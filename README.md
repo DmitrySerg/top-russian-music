@@ -22,4 +22,21 @@
 9. https://vk.com/pi_a_no (19k)
 10. https://vk.com/petertchaikovsky (22k)
 11. https://vk.com/wmozart (93k)
-12. https://vk.com/ludvigvonbeethoven (35k)
+12. https://vk.com/ludvigvonbeethoven (35k
+
+```python
+classic: {
+	"https://vk.com/classic_relax",
+	"https://vk.com/classicalmusic.classic",
+	"https://vk.com/classic_best",
+	"https://vk.com/classic_online",
+	"https://vk.com/inclassic",
+	"https://vk.com/classicstories",
+	"https://vk.com/classical_music_guide",
+	"https://vk.com/contemporary_classical",
+	"https://vk.com/pi_a_no",
+	"https://vk.com/petertchaikovsky",
+	"https://vk.com/wmozart",
+	"https://vk.com/ludvigvonbeethoven"
+}
+```
