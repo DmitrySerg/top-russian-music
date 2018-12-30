@@ -107,3 +107,4 @@ venv.bak/
 .DS_Store
 .ipynb_checkpoints
 data/
+token.txt
