@@ -25,20 +25,42 @@
 12. https://vk.com/ludvigvonbeethoven (35k
 
 
+
+Классика:
+
 ```python
-classic: {
-	"https://vk.com/classic_relax",
-	"https://vk.com/classicalmusic.classic",
-	"https://vk.com/classic_best",
-	"https://vk.com/classic_online",
-	"https://vk.com/inclassic",
-	"https://vk.com/classicstories",
-	"https://vk.com/classical_music_guide",
-	"https://vk.com/contemporary_classical",
-	"https://vk.com/pi_a_no",
-	"https://vk.com/petertchaikovsky",
-	"https://vk.com/wmozart",
-	"https://vk.com/ludvigvonbeethoven"
+target_groups = {
+    'classic_relax':'30166068',
+    'classic_best':'49945538',
+    'inclassic':'26484100',
+    'classicstories':'67287907_',
+    'classical_music_guide':'153374206',
+    'contemporary_classical':'44705245',
+    'pi_a_no':'52678432',
+    'petertchaikovsky':'21244691',
+    'wmozart':'126406',
+    'ludvigvonbeethoven':'191869',
+}
+```
+
+Реп:
+
+```python
+target_groups ={
+     'gazgolder': '1415705',           # 2 179 327
+     'NoizeMC': '77521',               # 1 075 908
+     'Miyagi&Эндшпиль': '85512864',    # 612 138
+     'Элджей': '148220303',            # 97 904 (на оф странице 1.2 миллиона)
+     'Feduk': '18022279',              # 279 565
+     'Грибы': '120376084',             # 312 122
+     'Oxxxymiron': '3113588',          # 921 242
+     'PHARAON': '97439489',            # 204 034
+     'Johnyboy': '10697541',           # 167 631
+     'Хаски': '59790294',              # 237 918
+     'LOne': '38213334',               # 681 506
+     'Мот': '847771',                  # 760 959
+     'ЛСП': '30314549',                # 815 224
+     'Face': '95470601'                # 757 411
 }
 ```
 
