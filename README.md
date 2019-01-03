@@ -88,7 +88,7 @@ target_groups ={
 
 Попса: 
 
-```
+```python
 target_groups ={
     "LOBODA" : "1632070",      # 283036
     "Билан" : "5599",          # 73555
