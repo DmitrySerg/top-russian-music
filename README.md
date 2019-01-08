@@ -11,40 +11,24 @@
 - Посмотреть, получаются ли разумные модели
 
 Классика:
-1. https://vk.com/classic_relax (95к)
-2. https://vk.com/classicalmusic.classic (53к, но комменты отключены)
-3. https://vk.com/classic_best (30к)
-4. https://vk.com/classic_online (24k, тоже отключены комменты)
-5. https://vk.com/inclassic (22к)
-6. https://vk.com/classicstories (22к)
-7. https://vk.com/classical_music_guide (8k)
-8. https://vk.com/contemporary_classical (14k, очень мало комментов)
-9. https://vk.com/pi_a_no (19k)
-10. https://vk.com/petertchaikovsky (22k)
-11. https://vk.com/wmozart (93k)
-12. https://vk.com/ludvigvonbeethoven (35k
-
-
-
-Классика:
 
 ```python
 target_groups = {
     'classikmusik': '159882' # 620 153
-    'classic_relax':'30166068',
-    'classic_best':'49945538',
-    'inclassic':'26484100',
-    'classicstories':'67287907_',
-    'classical_music_guide':'153374206',
-    'contemporary_classical':'44705245',
-    'pi_a_no':'52678432',
-    'petertchaikovsky':'21244691',
-    'wmozart':'126406',
-    'ludvigvonbeethoven':'191869',
+    'classic_relax':'30166068', # 95k
+    'classic_best':'49945538', # 30k
+    'inclassic':'26484100', # 22k
+    'classicstories':'67287907_', # 22k
+    'classical_music_guide':'153374206', # 8k
+    'contemporary_classical':'44705245', # 14k
+    'pi_a_no':'52678432', # 19k
+    'petertchaikovsky':'21244691', # 22k
+    'wmozart':'126406', # 93k
+    'ludvigvonbeethoven':'191869' # 35k
 }
 ```
 
-Реп:
+Рэп:
 
 ```python
 target_groups ={
@@ -101,7 +85,7 @@ target_groups ={
      'Лолита' : '1162252',      # Лолита : 26301
      'Леонтьев' : '9208',       # Леонтьев : 7740
      'Буйнов' : '157276422'     # Буйнов : 547
-    }
+}
 ```
 
 Попса: 
@@ -131,7 +115,7 @@ target_groups ={
     "Кока" : "4908135",
     "Майами" : "121652498",
     "Беляев" : "14675331"
-    }
+}
 ```
 
 Рок: 
@@ -156,8 +140,16 @@ target_groups ={
     'ногу_свело' : '38849',
     'король_и_шут' : '71896618',
     'агата_кристи' : '7471981'
-    }
+}
  ```
  
- 
-
+ Джаз:
+```python
+target_groups ={
+    'jazz_джаз': '8509', # 196 282
+    'best_jazz': '48749102', # 147 838
+    'jazz_music': '81892801', # 41 580
+    'jazz_от_тео': '30609426', # 35 339
+    'e_music_jazz': '89501437' # 22 415
+}
+ ```
