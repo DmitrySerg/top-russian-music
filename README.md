@@ -30,6 +30,7 @@
 
 ```python
 target_groups = {
+    'classikmusik': '159882' # 620 153
     'classic_relax':'30166068',
     'classic_best':'49945538',
     'inclassic':'26484100',
@@ -79,6 +80,7 @@ target_groups = {
     'РусскийШансон': '25993389', # 61 023
 }
 ```
+
 
 Эстрада: 
 
