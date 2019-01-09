@@ -107,4 +107,6 @@ venv.bak/
 .DS_Store
 .ipynb_checkpoints
 data/
+data_artm/
 token.txt
+bigartm*
