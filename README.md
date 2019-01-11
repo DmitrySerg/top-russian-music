@@ -51,6 +51,8 @@ target_groups ={
 
 Шансон:
 ```python
+style = 'shanson'
+
 target_groups = {
     "Михаил_Круг": '34532',         # 126 940
     "Ирина_Круг": '33860393',       # 66 640
@@ -62,6 +64,39 @@ target_groups = {
     'Шансон': '47951262',           # 251 335
     'Шуфутинский': '1176762',       # 13 947
     'РусскийШансон': '25993389',    # 61 023
+}
+
+
+
+target = {
+     'михаил_круг' : {'канал': 'UCNCnMXQTm9lCunw-UIMFnhw', 'листы': [
+        'PLI5DBAR-knxHnZlqTci8Cfi2RibpYnJpx', 
+        'PLI5DBAR-knxEzq5lmZN4nrbPyXLNvoZpW', 
+        'PLI5DBAR-knxELibvMI0xEJpaPb3yvnVLk'
+    ]},
+    'ирина_круг' : {'канал': 'UCArZO6LevX_-43iy_dqmlZg', 'листы': [
+        'PLk2zkNwKIjUI2kST3Db31pHZSbe9IuANT'
+    ]},
+    'бутырка' : {'канал' : 'UCtZQJSi3v6O3eU_pych6ZQQ', 'листы': [
+        'PLvZofFI2m4GJ-qygAfh3TofUGR9GP6NiM'
+    ]},
+    'трофимов' : {'канал' : 'UCk7l9hpgLbpfHJR3Ssz6Njw', 'листы': [
+        'PLhjB_FUFY4p0FSsgIh0b0grl8SFpQA9uz'
+    ]},
+    'жека' : {'канал' : 'UCk7l9hpgLbpfHJR3Ssz6Njw', 'листы': [
+        'PLsK47AUy3CkLGW5hEhFo_IwimS1vrhNWz'
+    ]},
+    'дюмин' : {'канал' : 'UCHiDKtT9BLzCbb3sH_DWbDw', 'листы': [
+        'PLbwZwB-W4n4OIO9VDT5cHOfaIHUx9OAZH',
+        'OLAK5uy_lVwvyCdzL2jOoCDxFj0eAh7xL50FdTy9c'
+    ]},
+    'воровайки' : {'канал' : 'UCQ6S7-gdPqdnzP4jUV2gqjQ', 'листы': [
+        'PLqSyQLbcuqeEWybyfRuLeWA0Uhj6z8cjO',
+        'PLqSyQLbcuqeEcpfsW_2PYAQF_KyowTkWG'
+    ]},
+    'шуфутинский' : {'канал' : 'UC9G759R-e1jZ5xfsi6naqHw', 'листы': [
+        'PLgcDoyCYSpOQ-P7G6WX-W6Lp78Zbi1hDm'
+    ]}
 }
 ```
 
