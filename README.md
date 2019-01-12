@@ -26,6 +26,25 @@ target_groups = {
     'wmozart':'126406', # 93k
     'ludvigvonbeethoven':'191869' # 35k
 }
+
+target = {
+     'classical_channel' : {'канал': 'UCl5Iupsbi7GzmVX3PK6-SEQ', 'листы': [
+        'PLHEbYUFAjjlW5shJLRZnxi9O_6iSU0-SS',
+        'PLHEbYUFAjjlWOeaWpIZsPX7kwrdJEhljy',
+        'PLHEbYUFAjjlX2_9vlDiu_ENesaCXnqqxC'
+     ]},
+
+     'листы': [
+        'PL-szEFUkwkwacf0ucVP3MouLpzfjzSC_q',
+        'PL3F74B9091A69057F',
+        'PLdK57foYD6PY231W8KUlm_8C-Gr0s-VLX',
+        'PLwr7jdWbjuqXTFNvDYp6QdpZRUqqpV9P2',
+        'PLPb_pYEj71sBFulgJmz3TY6BZcEZY6bnz',
+        'PLns4fhZfWiaykNYTy3RXMijtgYcXc7V1r',
+        'PL4AAbeNmIaeh9FKtfTuu5AQQnWORqVPsF'
+     ]
+
+}
 ```
 
 Рэп:
@@ -114,7 +133,6 @@ target_groups = {
     'Шуфутинский': '1176762',       # 13 947
     'РусскийШансон': '25993389',    # 61 023
 }
-
 
 
 target = {
