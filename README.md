@@ -47,6 +47,55 @@ target_groups ={
      'ЛСП': '30314549',                # 815 224
      'Face': '95470601'                # 757 411
 }
+
+target = {
+     'gazgolder' : {'канал': 'UCthfjHehYgSyhf8ONjzJMUw', 'листы': [
+        'PLC5550B2B4352D2E7', 
+        'PLgNR28e-jqpzb9WLFArig9ia0XSa-YY2v', 
+        'PLF1FDDFAAFE9B8C5A'
+    ]},
+    'noizemc' : {'канал': 'UCgzshmpXAc1T30PHQ3Yw2lw', 'листы': [
+        'OLAK5uy_nbl0ymUjr1hzSx_tYexTONzjys-J1Eoy4', 
+        'OLAK5uy_ljMSBIcc3gL07_RLFqoU2RrosZGiVR60k'
+    ]},
+    'miyagi&эндшпиль' : {'канал': 'UCM13XRybOcuL-lrU0TgC4RA', 'листы': [
+        'PLgRwpJtn4TBl4BvZ6nG_Yrl73SrhC4_Dd'
+    ]},
+    'элджей' : {'канал': 'UCKm_XqwBamWfKBrwAZjmQGw', 'листы': [
+        'PL79bk7Abmp0GBUgsOeh5RNH2fMTQRvzMj'
+    ]},
+    'feduk' : {'канал': 'UCnoO1SUbt09Gi4wQpvy9jwA', 'листы': [
+        'PLLFIvWBJ7hALOZ-qNTGiL8XlNWIeeNGKa'
+    ]},
+    'грибы' : {'канал': 'UCzx1uPHu7ZS9AaU1nbL48BA', 'листы': [
+        'PLtxtmecbCG9JLqjsgH3XsvhxBMxKtPocq'
+    ]},
+    'oxxxymiron' : {'канал': 'UCCzp3DWpSc0s5wXYDghjM9A', 'листы': [
+        'PLI80dHrUcwa1pG5PJafo5ExdKQaUTx5h2'
+    ]},
+    'pharaon' : {'канал': 'UCTLXD_eAdt1TUKpO_pyLXSw', 'листы': [
+        'PLG1rjDlgAbw4AKah5wcZslK7ml4zlkWcG'
+    ]},
+    'johnyboy' : {'канал': 'UCvboG6pCoch69TkbG7taPuQ', 'листы': [
+        'PLn8jJHdfkXjuZt2NCEYQTBGFz_dyedO5b'
+    ]},
+    'хаски' : {'канал': 'UC7q48M96boi1L3m8TQVVBrg', 'листы': [
+        'PLD6D-PmYhHp-PMtoRvqHE1VQl6_ylQ9dJ'
+    ]},
+    'lone' : {'канал': 'UCwanaxV4AvAw-I59Z_7o6Aw', 'листы': [
+        'PLj4Faj_-HePRYrdOKnzSrpz4LcMfGw6F1'
+    ]},
+    'мот' : {'канал': 'UCKKsIRc-1LytrgiPLTKmNDQ', 'листы': [
+        'PLtg8gghsEx9gKjZnwfKkgFIres8hvaHcI',
+        'PLtg8gghsEx9i2WReQcbeEC7SnyQL0KYUq'
+    ]},
+    'лсп' : {'канал': 'UCr19_2h5_vUv6T4Gbo4PU7w', 'листы': [
+        'PLurON48Ymp-b8fbIT4sWC55X6YRB9bD__'
+    ]},
+    'face' : {'канал': 'UCQpkqJ4bgocF5bwQsh-qHgg', 'листы': [
+        'PL8PKfvXoO2-4CXqqeZPhGHRJ_pj6gWeUp'
+    ]}
+}
 ```
 
 Шансон:
