@@ -1,0 +1,274 @@
+Классика:
+
+```python
+target_groups = {
+    'classikmusik': '159882' # 620 153
+    'classic_relax':'30166068', # 95k
+    'classic_best':'49945538', # 30k
+    'inclassic':'26484100', # 22k
+    'classicstories':'67287907_', # 22k
+    'classical_music_guide':'153374206', # 8k
+    'contemporary_classical':'44705245', # 14k
+    'pi_a_no':'52678432', # 19k
+    'petertchaikovsky':'21244691', # 22k
+    'wmozart':'126406', # 93k
+    'ludvigvonbeethoven':'191869' # 35k
+}
+
+target = {
+     'classical_channel' : {'канал': 'UCl5Iupsbi7GzmVX3PK6-SEQ', 'листы': [
+        'PLHEbYUFAjjlW5shJLRZnxi9O_6iSU0-SS',
+        'PLHEbYUFAjjlWOeaWpIZsPX7kwrdJEhljy',
+        'PLHEbYUFAjjlX2_9vlDiu_ENesaCXnqqxC'
+     ]},
+
+     'листы': [
+        'PL-szEFUkwkwacf0ucVP3MouLpzfjzSC_q',
+        'PL3F74B9091A69057F',
+        'PLdK57foYD6PY231W8KUlm_8C-Gr0s-VLX',
+        'PLwr7jdWbjuqXTFNvDYp6QdpZRUqqpV9P2',
+        'PLPb_pYEj71sBFulgJmz3TY6BZcEZY6bnz',
+        'PLns4fhZfWiaykNYTy3RXMijtgYcXc7V1r',
+        'PL4AAbeNmIaeh9FKtfTuu5AQQnWORqVPsF'
+     ]
+
+}
+```
+
+Рэп:
+
+```python
+target_groups ={
+     'gazgolder': '1415705',           # 2 179 327
+     'NoizeMC': '77521',               # 1 075 908
+     'Miyagi&Эндшпиль': '85512864',    # 612 138
+     'Элджей': '148220303',            # 97 904 (на оф странице 1.2 миллиона)
+     'Feduk': '18022279',              # 279 565
+     'Грибы': '120376084',             # 312 122
+     'Oxxxymiron': '3113588',          # 921 242
+     'PHARAON': '97439489',            # 204 034
+     'Johnyboy': '10697541',           # 167 631
+     'Хаски': '59790294',              # 237 918
+     'LOne': '38213334',               # 681 506
+     'Мот': '847771',                  # 760 959
+     'ЛСП': '30314549',                # 815 224
+     'Face': '95470601'                # 757 411
+}
+
+target = {
+     'gazgolder' : {'канал': 'UCthfjHehYgSyhf8ONjzJMUw', 'листы': [
+        'PLC5550B2B4352D2E7', 
+        'PLgNR28e-jqpzb9WLFArig9ia0XSa-YY2v', 
+        'PLF1FDDFAAFE9B8C5A'
+    ]},
+    'noizemc' : {'канал': 'UCgzshmpXAc1T30PHQ3Yw2lw', 'листы': [
+        'OLAK5uy_nbl0ymUjr1hzSx_tYexTONzjys-J1Eoy4', 
+        'OLAK5uy_ljMSBIcc3gL07_RLFqoU2RrosZGiVR60k'
+    ]},
+    'miyagi&эндшпиль' : {'канал': 'UCM13XRybOcuL-lrU0TgC4RA', 'листы': [
+        'PLgRwpJtn4TBl4BvZ6nG_Yrl73SrhC4_Dd'
+    ]},
+    'элджей' : {'канал': 'UCKm_XqwBamWfKBrwAZjmQGw', 'листы': [
+        'PL79bk7Abmp0GBUgsOeh5RNH2fMTQRvzMj'
+    ]},
+    'feduk' : {'канал': 'UCnoO1SUbt09Gi4wQpvy9jwA', 'листы': [
+        'PLLFIvWBJ7hALOZ-qNTGiL8XlNWIeeNGKa'
+    ]},
+    'грибы' : {'канал': 'UCzx1uPHu7ZS9AaU1nbL48BA', 'листы': [
+        'PLtxtmecbCG9JLqjsgH3XsvhxBMxKtPocq'
+    ]},
+    'oxxxymiron' : {'канал': 'UCCzp3DWpSc0s5wXYDghjM9A', 'листы': [
+        'PLI80dHrUcwa1pG5PJafo5ExdKQaUTx5h2'
+    ]},
+    'pharaon' : {'канал': 'UCTLXD_eAdt1TUKpO_pyLXSw', 'листы': [
+        'PLG1rjDlgAbw4AKah5wcZslK7ml4zlkWcG'
+    ]},
+    'johnyboy' : {'канал': 'UCvboG6pCoch69TkbG7taPuQ', 'листы': [
+        'PLn8jJHdfkXjuZt2NCEYQTBGFz_dyedO5b'
+    ]},
+    'хаски' : {'канал': 'UC7q48M96boi1L3m8TQVVBrg', 'листы': [
+        'PLD6D-PmYhHp-PMtoRvqHE1VQl6_ylQ9dJ'
+    ]},
+    'lone' : {'канал': 'UCwanaxV4AvAw-I59Z_7o6Aw', 'листы': [
+        'PLj4Faj_-HePRYrdOKnzSrpz4LcMfGw6F1'
+    ]},
+    'мот' : {'канал': 'UCKKsIRc-1LytrgiPLTKmNDQ', 'листы': [
+        'PLtg8gghsEx9gKjZnwfKkgFIres8hvaHcI',
+        'PLtg8gghsEx9i2WReQcbeEC7SnyQL0KYUq'
+    ]},
+    'лсп' : {'канал': 'UCr19_2h5_vUv6T4Gbo4PU7w', 'листы': [
+        'PLurON48Ymp-b8fbIT4sWC55X6YRB9bD__'
+    ]},
+    'face' : {'канал': 'UCQpkqJ4bgocF5bwQsh-qHgg', 'листы': [
+        'PL8PKfvXoO2-4CXqqeZPhGHRJ_pj6gWeUp'
+    ]}
+}
+```
+
+Шансон:
+```python
+style = 'shanson'
+
+target_groups = {
+    "Михаил_Круг": '34532',         # 126 940
+    "Ирина_Круг": '33860393',       # 66 640
+    "Бутырка": '25040475',          # 88 271
+    "Трофимов": '202731',           # 21 325
+    "Жека": '2952094',              # 45 834
+    'Дюмин': '75015561',            # 45 839
+    'Воровайки': '632994',          # 21 377
+    'Шансон': '47951262',           # 251 335
+    'Шуфутинский': '1176762',       # 13 947
+    'РусскийШансон': '25993389',    # 61 023
+}
+
+
+target = {
+     'михаил_круг' : {'канал': 'UCNCnMXQTm9lCunw-UIMFnhw', 'листы': [
+        'PLI5DBAR-knxHnZlqTci8Cfi2RibpYnJpx', 
+        'PLI5DBAR-knxEzq5lmZN4nrbPyXLNvoZpW', 
+        'PLI5DBAR-knxELibvMI0xEJpaPb3yvnVLk'
+    ]},
+    'ирина_круг' : {'канал': 'UCArZO6LevX_-43iy_dqmlZg', 'листы': [
+        'PLk2zkNwKIjUI2kST3Db31pHZSbe9IuANT'
+    ]},
+    'бутырка' : {'канал' : 'UCtZQJSi3v6O3eU_pych6ZQQ', 'листы': [
+        'PLvZofFI2m4GJ-qygAfh3TofUGR9GP6NiM'
+    ]},
+    'трофимов' : {'канал' : 'UCk7l9hpgLbpfHJR3Ssz6Njw', 'листы': [
+        'PLhjB_FUFY4p0FSsgIh0b0grl8SFpQA9uz'
+    ]},
+    'жека' : {'канал' : 'UCk7l9hpgLbpfHJR3Ssz6Njw', 'листы': [
+        'PLsK47AUy3CkLGW5hEhFo_IwimS1vrhNWz'
+    ]},
+    'дюмин' : {'канал' : 'UCHiDKtT9BLzCbb3sH_DWbDw', 'листы': [
+        'PLbwZwB-W4n4OIO9VDT5cHOfaIHUx9OAZH',
+        'OLAK5uy_lVwvyCdzL2jOoCDxFj0eAh7xL50FdTy9c'
+    ]},
+    'воровайки' : {'канал' : 'UCQ6S7-gdPqdnzP4jUV2gqjQ', 'листы': [
+        'PLqSyQLbcuqeEWybyfRuLeWA0Uhj6z8cjO',
+        'PLqSyQLbcuqeEcpfsW_2PYAQF_KyowTkWG'
+    ]},
+    'шуфутинский' : {'канал' : 'UC9G759R-e1jZ5xfsi6naqHw', 'листы': [
+        'PLgcDoyCYSpOQ-P7G6WX-W6Lp78Zbi1hDm'
+    ]}
+}
+```
+
+
+Эстрада: 
+
+```python
+target_groups ={
+     'Лепс' : '52228413',       # 66007
+     'Пугачёва' : '24164800',   # 29175
+     'Михайлов' : '925262',     # 8013
+     'Меладзе' : '4336146',     # 28081
+     'Ваенга' : '57465816',     # 12413
+     'Киркоров' : '24344295',   # 46353
+     'Валерия' : '17890994',    # 31754
+     'Агутин' : '290390',       # 12810
+     'Газманов' : '5640401',    # 7213
+     'Басков' : '40705635',     # 3877
+     'Николаев' : '106027463',  # 3000
+     'Ротару' : '37165678',     # 12737
+     'Лолита' : '1162252',      # 26301
+     'Леонтьев' : '9208',       # 7740
+     'Буйнов' : '157276422'     # 547
+}
+```
+
+Попса: 
+
+```python
+target_groups ={
+    "LOBODA" : "1632070",      # 283036
+    "Билан" : "5599",          # 73555
+    "Крид" : "23482802",
+    "2Маши" : "104052522",
+    "Барских" : "4579233",
+    "Гагарина" : "170578",
+    "Темникова" : "72665113",
+    "SEREBRO" : "74417",
+    "Лазарев" : "26990345",
+    "Ёлка" : "13762862",
+    "Руки вверх" : "5719309",
+    "МакSим" : "27112805",
+    "Градусы" : "3315442",
+    "ВИА ГРА" : "7669847",
+    "A'Studio" : "13182484",
+    "IOWA" : "20548570",
+    "Бузова" : "4887563",
+    "Тимати" : "24581636",
+    "Нюша" : "11238722",
+    "Караулова" : "93965182",
+    "Кока" : "4908135",
+    "Майами" : "121652498",
+    "Беляев" : "14675331"
+}
+```
+
+Рок: 
+
+```python
+target_groups ={
+    'би_2' : '225666',           # 887594
+    'ленинград' : '23053131',    # 264507
+    'кино' : '1090630',          # 262121
+    'сплин' : '24823541',        # 483638
+    'мумий_тролль' : '24091813', # 253296
+    'звери' : '8913258',         # 310981
+    'гребенщиков' : '58316960',  # 129082
+    'земфира' : '23408047',      # 307356
+    'ддт' : '367',               # 93748
+    'кукрыниксы' : '4397',       # 74358
+    'арбенина' : '86583346',     # 64127
+    'чичерина' : '1029898',      # 14516
+    'несчастный_случай' : '256815', # 9565
+    'смысловые_галлюцинации' : '29704495', # 33782
+    'ногу_свело' : '38849',       # 50611
+    'агата_кристи' : '7471981'    # 27142
+    }
+ ```
+ 
+ Метал: 
+ 
+```python
+target_groups ={
+    'ария' : '51888',               # 164215
+    'louna' : '23437768',           # 8596
+    'кипелов' : '969280',           # 111567
+    'stigmata' : '8795',            # 83542
+    'коррозия_метала' : '14017140', # 920
+    'чёрный обелиск' : '129158',    # 24699
+    'маврин' : '10274077',          # 15519
+    'эпидемия' : '325'              # 66834
+    }
+```
+
+Панк 
+
+```python
+target_groups ={
+    'король_и_шут' : '71896618',    # 146860
+    'порнофильмы' : '7030876',      # 138923
+    'сектор_газа' : '162447718',    # 31268
+    'гражданская_оборона' : '2457', # 64782
+    'тараканы' : '2749',            # 61602
+    'наив' : '8769438',             # 26722
+    'элизиум' : '10571',            # 45969
+    'план ломоносова' : '30006666', # 59503
+    'йорш' : '198644'               # 53123
+    }
+ ```
+ 
+ 
+ Джаз:
+```python
+target_groups ={
+    'jazz_джаз': '8509',        # 196 282
+    'best_jazz': '48749102',    # 147 838
+    'jazz_music': '81892801',   # 41 580
+    'jazz_от_тео': '30609426',  # 35 339
+    'e_music_jazz': '89501437'  # 22 415
+}
